@@ -18,13 +18,7 @@ This repository is focused on learning and practicing **Matplotlib**, a powerful
 - **Integration**: Works seamlessly with NumPy and Pandas.
 - **Output formats**: Save plots in different formats such as PNG, SVG, and PDF.
   
----
-
-## 📊 Common Plot Types
-
-### 1. **Line Plot**
-
-A simple line plot to show trends over time or any other continuous variable.
+--
 
 ```python
 import matplotlib.pyplot as plt
